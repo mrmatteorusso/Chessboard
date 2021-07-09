@@ -7,7 +7,7 @@ or a "#" character. The characters should form a chessboard.
 Passing this string to console.log should show something like this:
 
 \# # # #<br>
- \# # # #<br>
+/\# # # #<br>
 \# # # #<br>
 \ # # # #<br>
 \# # # #<br>
